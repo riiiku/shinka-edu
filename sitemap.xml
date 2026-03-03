@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Chinese Pages -->
+  <url>
+    <loc>https://shinka-edu.com/</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://shinka-edu.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://shinka-edu.com/en/" />
+    <lastmod>2025-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://shinka-edu.com/services.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://shinka-edu.com/services.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://shinka-edu.com/en/services.html" />
+    <lastmod>2025-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://shinka-edu.com/cases.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://shinka-edu.com/cases.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://shinka-edu.com/en/cases.html" />
+    <lastmod>2025-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://shinka-edu.com/team.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://shinka-edu.com/team.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://shinka-edu.com/en/team.html" />
+    <lastmod>2025-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://shinka-edu.com/blog.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://shinka-edu.com/blog.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://shinka-edu.com/en/blog.html" />
+    <lastmod>2025-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://shinka-edu.com/faq.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://shinka-edu.com/faq.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://shinka-edu.com/en/faq.html" />
+    <lastmod>2025-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://shinka-edu.com/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://shinka-edu.com/contact.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://shinka-edu.com/en/contact.html" />
+    <lastmod>2025-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- English Pages -->
+  <url>
+    <loc>https://shinka-edu.com/en/</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://shinka-edu.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://shinka-edu.com/en/" />
+    <lastmod>2025-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://shinka-edu.com/en/services.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://shinka-edu.com/services.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://shinka-edu.com/en/services.html" />
+    <lastmod>2025-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://shinka-edu.com/en/cases.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://shinka-edu.com/cases.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://shinka-edu.com/en/cases.html" />
+    <lastmod>2025-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://shinka-edu.com/en/team.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://shinka-edu.com/team.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://shinka-edu.com/en/team.html" />
+    <lastmod>2025-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://shinka-edu.com/en/blog.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://shinka-edu.com/blog.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://shinka-edu.com/en/blog.html" />
+    <lastmod>2025-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://shinka-edu.com/en/faq.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://shinka-edu.com/faq.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://shinka-edu.com/en/faq.html" />
+    <lastmod>2025-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://shinka-edu.com/en/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://shinka-edu.com/contact.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://shinka-edu.com/en/contact.html" />
+    <lastmod>2025-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+</urlset>

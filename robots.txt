@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shinka-edu.com/sitemap.xml
